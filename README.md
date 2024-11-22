@@ -37,9 +37,10 @@ Do note that the bot will restart itself to update to the latest!
 
 ## 🔗 Useful Links
 
-- ![LAVALINK](https://lavalinks-list.vercel.app/)
-- ![MONGODB](https://www.mongodb.com/)
-- ![HOST](https://dash.impulsehost.cloud/login)
+
+- [LAVALINK](https://lavalinks-list.vercel.app/)
+- [MONGODB](https://www.mongodb.com/)
+- [HOST](https://dash.impulsehost.cloud/login)
 
 ## 📝 Tutorial
 
